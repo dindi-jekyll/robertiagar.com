@@ -10,7 +10,7 @@ mvvmlight: 'http://www.mvvmlight.net/'
 ---
 
 
-I recently went to a .NET meetup in my area to present the [MVVM Light][{{ page.mvvmlight }}] framework in the context of Universal Windows Platform. You can find the presentation [here][presentation]. After a few introduction points and went into the code, and I've chosen to use the [Podcast Manager][solocast] I'm working on. This when the stage fright kicked in. No matter how much I know the code, I can't speak confidenly enough. I stutter, have a low voice and gennerally insecurity.
+I recently went to a .NET meetup in my area to present the [MVVM Light]{{ page.mvvmlight }} framework in the context of Universal Windows Platform. You can find the presentation [here][presentation]. After a few introduction points and went into the code, and I've chosen to use the [Podcast Manager][solocast] I'm working on. This when the stage fright kicked in. No matter how much I know the code, I can't speak confidenly enough. I stutter, have a low voice and gennerally insecurity.
 
 I want to get rid of this problem, but I really don't know how. I'd like to create a [YouTube Channel][channel] filled with C# and .NET Tutorials, but since I've released my [first video][1st-video], I'm too scared to talk into the mic again.
 
