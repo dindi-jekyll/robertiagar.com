@@ -7,6 +7,7 @@ categories:
 published: true
 title: 'I like speaking, but I lack the confidence'
 mvvmlight: 'http://www.mvvmlight.net/'
+mgh: 'https://www.maxgoldhouse.com/'
 ---
 
 
@@ -14,7 +15,7 @@ I recently went to a .NET meetup in my area to present the [MVVM Light][mvvm-lig
 
 I want to get rid of this problem, but I really don't know how. I'd like to create a [YouTube Channel][channel] filled with C# and .NET Tutorials, but since I've released my [first video][1st-video], I'm too scared to talk into the mic again.
 
-I really don't know what to do. If you guys have any tips on how to beat this, please leave them in the comments below.
+I really don't know what to do. If you guys have any tips on how to beat this, please leave them in the comments [below]({{ page.mgh }} "Spanish Property - time to get away").
 
 [mvvm-light]: http://www.mvvmlight.net/
 [presentation]: www.slideshare.net/RobertIagar/mvvm-light-for-uwp-58983927
