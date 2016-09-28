@@ -14,6 +14,7 @@
         $('.post-content').readingTime({
             readingTimeTarget: '.post-reading-time',
             wordCountTarget: '.post-word-count',
+            lang: 'it',
         });
         
         // Creates Captions from Alt tags
