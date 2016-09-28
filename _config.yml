@@ -34,7 +34,7 @@ collections:
          This started out as photography project to improve my photography. I wanted to take a picture each day of the year 2015. I've only made it to 31 days out of 365. Much more than I anticipated.
 
 url: "https://dindi-jekyll.github.io/robertiagar.com/" # the base hostname & protocol for your site
-baseurl: "robertiagar.com"
+baseurl: "/robertiagar.com"
 
 # social icons and sharing options
 social:
