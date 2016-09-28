@@ -22,5 +22,5 @@ I really don't know what to do. If you guys have any tips on how to beat this, p
 [channel]: https://www.youtube.com/channel/UCYiXD2GqyUHXOgVPeTqAuoQ
 [1st-video]: https://www.youtube.com/watch?v=-5YfegTtfCo
 
-![Lookin' good papo]({{site.baseurl}}/_posts/dado.jpg)
+
 
